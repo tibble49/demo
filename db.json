@@ -1,14 +1,122 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"EquipmentTypeId": "1",
+"Device Type": "Amassador Bridge",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "101",
+"SourceProvider": "Amassador Bridge",
+"ActiveDate": "1/1/00",
+"HardwareAccessFee": "Yes",
+"Package": "No"
+},
+{
+"EquipmentTypeId": "2",
+"Device Type": "Complete Pass Scout",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "102",
+"SourceProvider": "Bestpass",
+"ActiveDate": "5/19/20",
+"HardwareAccessFee": "Yes",
+"Package": "Yes"
+},
+{
+"EquipmentTypeId": "3",
+"Device Type": "Complete Pass Toll",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "102",
+"SourceProvider": "Bestpass",
+"ActiveDate": "1/1/00",
+"HardwareAccessFee": "Yes",
+"Package": "Yes"
+},
+{
+"EquipmentTypeId": "4",
+"Device Type": "Complete Pass w/ Bypass and CA",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "102",
+"SourceProvider": "Bestpass",
+"ActiveDate": "1/1/00",
+"HardwareAccessFee": "Yes",
+"Package": "Yes"
+},
+{
+"EquipmentTypeId": "5",
+"Device Type": "FasTrak",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "103",
+"SourceProvider": "Bay Area Bridges and Tunnels",
+"ActiveDate": "1/1/00",
+"HardwareAccessFee": "No",
+"Package": "No"
+},
+{
+"EquipmentTypeId": "6",
+"Device Type": "Horizon",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "102",
+"SourceProvider": "Bestpass",
+"ActiveDate": "1/1/00",
+"HardwareAccessFee": "Yes",
+"Package": "No"
+},
+{
+"EquipmentTypeId": "7",
+"Device Type": "Horizon Scout",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "102",
+"SourceProvider": "Bestpass",
+"ActiveDate": "5/19/20",
+"HardwareAccessFee": "Yes",
+"Package": "No"
+},
+{
+"EquipmentTypeId": "8",
+"Device Type": "Horizon Voyager",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "102",
+"SourceProvider": "Bestpass",
+"ActiveDate": "10/1/19",
+"HardwareAccessFee": "Yes",
+"Package": "No"
+},
+{
+"EquipmentTypeId": "9",
+"Device Type": "Mackinac 6c",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "104",
+"SourceProvider": "Mackinac Bridge",
+"ActiveDate": "10/1/20",
+"HardwareAccessFee": "No",
+"Package": "No"
+},
+{
+"EquipmentTypeId": "10",
+"Device Type": "MD EZ Pass",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "105",
+"SourceProvider": "Maryland Transportation Authority",
+"ActiveDate": "1/1/00",
+"HardwareAccessFee": "No",
+"Package": "No"
+},
+{
+"EquipmentTypeId": "11",
+"Device Type": "NJ EZ Pass",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "106",
+"SourceProvider": "New Jersey Turnpike Authority",
+"ActiveDate": "10/26/18",
+"HardwareAccessFee": "Yes",
+"Package": "No"
+},
+{
+"EquipmentTypeId": "12",
+"Device Type": "NY EZ Pass",
+"Device Category": "Toll Transponder",
+"SourceProviderID": "107",
+"SourceProvider": "New York Thruway Authority",
+"ActiveDate": "1/1/00",
+"HardwareAccessFee": "No",
+"Package": "No"
 }
+]
